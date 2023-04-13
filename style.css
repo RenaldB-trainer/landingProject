@@ -1,0 +1,6 @@
+/* test couleur pour vérifier la connection entre le fichier css et html landing*/
+
+h1 {
+    color: brown;
+    background-color: blue;
+}
