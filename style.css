@@ -1,0 +1,14 @@
+h1 { 
+    color: blueviolet;
+}
+a {
+    background-color: #0066ff;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    font-family: Verdana;
+    font-size: 1em;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: whitesmoke;
+    border-radius: 12.5px;
+}
